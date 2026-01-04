@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Brett 👋
 
-<!--
-**Brett-Rowland/Brett-Rowland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Science graduate from the University of Central Missouri (UCM).
+Backend-focused developer working primarily with Java and Spring Boot.
 
-Here are some ideas to get you started:
+### 🔧 Tech
+- Java, Python, SQL
+- Spring Boot, React
+- AWS (Lambda, DynamoDB, S3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Ark Breeder Tracker** – Web-based system for tracking breeding projects with complex stat calculations
+- **Risen One Timesheet** – Serverless AWS timesheet application using Lambda and DynamoDB
+
+📫 Contact: BrettERowland@gmail.com
